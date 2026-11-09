@@ -22,7 +22,7 @@ testable, observable and debuggable without leaving VS Code.
 ### [utPLSQL Test Runner](https://marketplace.visualstudio.com/items?itemName=paneb.vscode-utplsql) for VS Code
 
 <p>
-  <a href="https://marketplace.visualstudio.com/items?itemName=paneb.vscode-utplsql"><img alt="Marketplace version" src="https://img.shields.io/visual-studio-marketplace/v/paneb.vscode-utplsql?label=marketplace&logo=visualstudiocode&logoColor=white"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=paneb.vscode-utplsql"><img alt="Marketplace version" src="https://vsmarketplacebadges.dev/version-short/paneb.vscode-utplsql.svg"></a>
   <a href="https://github.com/thepaneb/vscode-utplsql/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/thepaneb/vscode-utplsql/actions/workflows/ci.yml/badge.svg?branch=main"></a>
   <a href="https://github.com/thepaneb/vscode-utplsql/releases"><img alt="Latest release" src="https://img.shields.io/github/v/release/thepaneb/vscode-utplsql?label=release"></a>
   <a href="https://github.com/thepaneb/vscode-utplsql/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/thepaneb/vscode-utplsql?color=green"></a>
