@@ -40,6 +40,14 @@ or Instant Client in thin mode.
 
 `TypeScript` · `node-oracledb` · `Oracle 12.1+` · `MIT` · independent community project
 
+<p align="center">
+  <a href="https://raw.githubusercontent.com/thepaneb/vscode-utplsql/main/images/marketplace-run.gif">
+    <img src="https://raw.githubusercontent.com/thepaneb/vscode-utplsql/main/images/marketplace-test-explorer.png" alt="VS Code Test Explorer showing utPLSQL suites and tests, with Run and Run with Coverage CodeLens" width="100%">
+  </a>
+</p>
+
+<p align="center"><sub>Native Test Explorer — click the image for the demo</sub></p>
+
 [Marketplace](https://marketplace.visualstudio.com/items?itemName=paneb.vscode-utplsql) ·
 [Documentation](https://thepaneb.github.io/vscode-utplsql/) ·
 [Wiki](https://github.com/thepaneb/vscode-utplsql/wiki) ·
