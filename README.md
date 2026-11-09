@@ -54,6 +54,17 @@ or Instant Client in thin mode.
 | **[base_robyn](https://github.com/thepaneb/base_robyn)** | Robyn workspace template with VS Code Dev Containers | Python · Docker |
 | **[utPLSQL](https://github.com/thepaneb/utPLSQL)** | Personal fork of the utPLSQL testing framework | PL/SQL |
 
+## Writing
+
+Notes on building Oracle and PL/SQL tooling, published on LinkedIn:
+
+- [A native Test Explorer for utPLSQL](https://www.linkedin.com/feed/update/urn:li:share:7522375845034999808/)
+- [Run tests from CodeLens, without leaving the editor](https://www.linkedin.com/feed/update/urn:li:share:7523750972209348608/)
+- [PL/SQL coverage inside VS Code](https://www.linkedin.com/feed/update/urn:li:share:7524923525288357889/)
+- [Inline pass/fail results on the test line](https://www.linkedin.com/feed/update/urn:li:share:7525314380956135424/)
+
+Release notes and the full history live in the [changelog](https://github.com/thepaneb/vscode-utplsql/blob/main/CHANGELOG.md).
+
 ## Toolbox
 
 `TypeScript` · `Python` · `PL/SQL` · `Oracle Database` · `node-oracledb` ·
