@@ -48,8 +48,8 @@ or Instant Client in thin mode.
 <p align="center"><sub>Native Test Explorer — click the image for the demo</sub></p>
 
 [Marketplace](https://marketplace.visualstudio.com/items?itemName=paneb.vscode-utplsql) ·
-[Documentation](https://thepaneb.github.io/vscode-utplsql/) ·
-[Wiki](https://github.com/thepaneb/vscode-utplsql/wiki) ·
+[Documentation](https://github.com/thepaneb/vscode-utplsql/wiki) ·
+[Website](https://thepaneb.github.io/vscode-utplsql/) ·
 [Releases](https://github.com/thepaneb/vscode-utplsql/releases)
 
 ## Selected work
