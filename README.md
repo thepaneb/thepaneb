@@ -56,6 +56,7 @@ or Instant Client in thin mode.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| **[isis-report-lib](https://github.com/thepaneb/isis-report-lib)** | Python library for tabular PDF reports with hierarchical layouts, published on [PyPI](https://pypi.org/project/isis-report-lib/) | Python · Jinja2 · Playwright |
 | **[isis_report](https://github.com/thepaneb/isis_report)** | Async microservice that renders PDF reports from customizable hierarchical layouts | Python · Robyn |
 | **[base_flask](https://github.com/thepaneb/base_flask)** | Flask workspace template with VS Code Dev Containers | Python · Docker |
 | **[base_robyn](https://github.com/thepaneb/base_robyn)** | Robyn workspace template with VS Code Dev Containers | Python · Docker |
