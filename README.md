@@ -6,6 +6,7 @@
 
 <p align="center">
   Sorocaba, Brazil ·
+  <a href="https://thepaneb.github.io/">Projects</a> ·
   <a href="https://www.linkedin.com/in/gilcleber/">LinkedIn</a> ·
   <a href="https://twitter.com/the_paneb">X</a>
 </p>
@@ -56,11 +57,14 @@ or Instant Client in thin mode.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[isis-report-lib](https://github.com/thepaneb/isis-report-lib)** | Python library for tabular PDF reports with hierarchical layouts, published on [PyPI](https://pypi.org/project/isis-report-lib/) | Python · Jinja2 · Playwright |
-| **[isis_report](https://github.com/thepaneb/isis_report)** | Async microservice that renders PDF reports from customizable hierarchical layouts | Python · Robyn |
-| **[base_flask](https://github.com/thepaneb/base_flask)** | Flask workspace template with VS Code Dev Containers | Python · Docker |
-| **[base_robyn](https://github.com/thepaneb/base_robyn)** | Robyn workspace template with VS Code Dev Containers | Python · Docker |
+| **[isis-report-lib](https://thepaneb.github.io/isis-report-lib/)** | Python library for tabular PDF reports with hierarchical layouts, published on [PyPI](https://pypi.org/project/isis-report-lib/) | Python · Jinja2 · Playwright |
+| **[isis_report](https://thepaneb.github.io/isis-report/)** | Async microservice that renders PDF reports from customizable hierarchical layouts | Python · Robyn |
+| **[base_flask](https://thepaneb.github.io/base-flask/)** | Flask workspace template with VS Code Dev Containers | Python · Docker |
+| **[base_robyn](https://thepaneb.github.io/base-robyn/)** | Robyn workspace template with VS Code Dev Containers | Python · Docker |
 | **[utPLSQL](https://github.com/thepaneb/utPLSQL)** | Personal fork of the utPLSQL testing framework | PL/SQL |
+
+The full project hub, with a landing page for each public project, is at
+**[thepaneb.github.io](https://thepaneb.github.io/)**.
 
 ## Writing
 
