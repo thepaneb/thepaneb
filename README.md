@@ -60,6 +60,7 @@ or Instant Client in thin mode.
 | **[isis-report-lib](https://thepaneb.github.io/isis-report-lib/)** | Python library for tabular PDF reports with hierarchical layouts, published on [PyPI](https://pypi.org/project/isis-report-lib/) | Python · Jinja2 · Playwright |
 | **[isis_report](https://thepaneb.github.io/isis-report/)** | Async microservice that renders PDF reports from customizable hierarchical layouts | Python · Robyn |
 | **[Samsung Remote](https://thepaneb.github.io/samsung-remote/)** | Desktop and Android app to control Samsung (Tizen) TVs over the local network, with SmartThings as a fallback | Rust · Tauri 2 · TypeScript |
+| **[My Tuya Home](https://thepaneb.github.io/my-tuya-home/)** | Self-hosted dashboard for Tuya/SmartLife smart plugs with live energy, cascade totals and a native Flet app | Python · Flask · Flet |
 | **[base_flask](https://thepaneb.github.io/base-flask/)** | Flask workspace template with VS Code Dev Containers | Python · Docker |
 | **[base_robyn](https://thepaneb.github.io/base-robyn/)** | Robyn workspace template with VS Code Dev Containers | Python · Docker |
 | **[utPLSQL](https://github.com/thepaneb/utPLSQL)** | Personal fork of the utPLSQL testing framework | PL/SQL |
@@ -81,7 +82,7 @@ Release notes and the full history live in the [changelog](https://github.com/th
 ## Toolbox
 
 `TypeScript` · `Python` · `Rust` · `Tauri 2` · `PL/SQL` · `Oracle Database` ·
-`node-oracledb` · `Robyn` · `Flask` · `Docker` · `GitHub Actions` · `VS Code API`
+`node-oracledb` · `Robyn` · `Flask` · `Flet` · `Docker` · `GitHub Actions` · `VS Code API`
 
 ## What I care about
 
