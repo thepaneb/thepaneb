@@ -1,0 +1,20 @@
+name: links
+
+on:
+  push:
+    branches: [main]
+    paths: [README.md, .github/workflows/links.yml]
+  schedule:
+    - cron: '0 9 * * 1' # weekly, Monday 09:00 UTC
+  workflow_dispatch:
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          # LinkedIn/X block bot traffic (999/405); everything else is checked.
+          args: --no-progress --exclude 'linkedin\.com' --exclude '(twitter|x)\.com' README.md
+          fail: true
