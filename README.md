@@ -61,7 +61,7 @@ or Instant Client in thin mode.
 | **[isis_report](https://thepaneb.github.io/isis-report/)** | Async microservice that renders PDF reports from customizable hierarchical layouts | Python · Robyn |
 | **[Samsung Remote](https://thepaneb.github.io/samsung-remote/)** | Desktop and Android app to control Samsung (Tizen) TVs over the local network, with SmartThings as a fallback | Rust · Tauri 2 · TypeScript |
 | **[My Tuya Home](https://thepaneb.github.io/my-tuya-home/)** | Self-hosted dashboard for Tuya/SmartLife smart plugs with live energy, cascade totals and a native Flet app | Python · Flask · Flet |
-| **[paneb-videogen](https://github.com/thepaneb/paneb-videogen)** | Android app + API to generate short videos from prompts and images, with swappable providers (Kling cloud, local ComfyUI/LTX, free mock) | TypeScript · Kotlin · SQLite |
+| **[paneb-videogen](https://thepaneb.github.io/paneb-videogen/)** | Android app + API to generate short videos from prompts and images, with swappable providers (free mock, Kling cloud, local ComfyUI + LTX) | TypeScript · Kotlin · SQLite |
 | **[base_flask](https://thepaneb.github.io/base-flask/)** | Flask workspace template with VS Code Dev Containers | Python · Docker |
 | **[base_robyn](https://thepaneb.github.io/base-robyn/)** | Robyn workspace template with VS Code Dev Containers | Python · Docker |
 | **[utPLSQL](https://github.com/thepaneb/utPLSQL)** | Personal fork of the utPLSQL testing framework | PL/SQL |
