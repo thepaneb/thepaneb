@@ -80,7 +80,6 @@ hierarchical layouts, shipped as a library, a CLI and a composite GitHub Action.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[isis-report-lib](https://thepaneb.github.io/isis-report-lib/)** | Python library for tabular reports — one payload, four outputs (PDF, HTML, XLSX, CSV), published on [PyPI](https://pypi.org/project/isis-report-lib/) | Python · Jinja2 · Playwright |
 | **[isis_report](https://thepaneb.github.io/isis-report/)** | Async microservice that renders PDF reports from customizable hierarchical layouts | Python · Robyn |
 | **[Samsung Remote](https://thepaneb.github.io/samsung-remote/)** | Desktop and Android app to control Samsung (Tizen) TVs over the local network, with SmartThings as a fallback | Rust · Tauri 2 · TypeScript |
 | **[My Tuya Home](https://thepaneb.github.io/my-tuya-home/)** | Self-hosted dashboard for Tuya/SmartLife smart plugs with live energy, cascade totals and a native Flet app | Python · Flask · Flet |
