@@ -13,7 +13,8 @@
 
 ---
 
-I build developer tools for teams that run **Oracle in production**.
+I build developer tools for teams that run **Oracle in production** — and a few
+practical Python and Rust projects.
 
 Most of my work sits between the database and the editor: making PL/SQL
 testable, observable and debuggable without leaving VS Code.
@@ -53,11 +54,33 @@ or Instant Client in thin mode.
 [Website](https://thepaneb.github.io/vscode-utplsql/) ·
 [Releases](https://github.com/thepaneb/vscode-utplsql/releases)
 
+### [isis-report-lib](https://thepaneb.github.io/isis-report-lib/) — tabular reports from Python
+
+<p>
+  <a href="https://pypi.org/project/isis-report-lib/"><img alt="PyPI version" src="https://img.shields.io/pypi/v/isis-report-lib.svg"></a>
+  <a href="https://github.com/thepaneb/isis-report-lib/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/thepaneb/isis-report-lib/actions/workflows/ci.yml/badge.svg"></a>
+  <a href="https://codecov.io/gh/thepaneb/isis-report-lib"><img alt="Coverage" src="https://codecov.io/gh/thepaneb/isis-report-lib/graph/badge.svg"></a>
+</p>
+
+One payload, four outputs: **PDF**, **HTML**, **XLSX** and **CSV** — declarative
+hierarchical layouts, shipped as a library, a CLI and a composite GitHub Action.
+
+- **Composed reports** — tables, KPIs, charts, crosstabs, TOC, images and watermarks
+- **Tamper-evident signing** — HMAC or Ed25519 seals with key rotation (`isis-report sign` / `verify`)
+- **Built to ship** — ASVS-mapped security, pip-audit/Semgrep/CodeQL gates, SBOM and Sigstore attestations on every release
+
+`pip install isis-report-lib` · `Python 3.11+` · `MIT`
+
+[Docs](https://thepaneb.github.io/isis-report-lib/) ·
+[Gallery](https://thepaneb.github.io/isis-report-lib/gallery/) ·
+[API](https://thepaneb.github.io/isis-report-lib/api/) ·
+[Contributing](https://github.com/thepaneb/isis-report-lib/blob/main/CONTRIBUTING.md)
+
 ## Selected work
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[isis-report-lib](https://thepaneb.github.io/isis-report-lib/)** | Python library for tabular PDF reports with hierarchical layouts, published on [PyPI](https://pypi.org/project/isis-report-lib/) | Python · Jinja2 · Playwright |
+| **[isis-report-lib](https://thepaneb.github.io/isis-report-lib/)** | Python library for tabular reports — one payload, four outputs (PDF, HTML, XLSX, CSV), published on [PyPI](https://pypi.org/project/isis-report-lib/) | Python · Jinja2 · Playwright |
 | **[isis_report](https://thepaneb.github.io/isis-report/)** | Async microservice that renders PDF reports from customizable hierarchical layouts | Python · Robyn |
 | **[Samsung Remote](https://thepaneb.github.io/samsung-remote/)** | Desktop and Android app to control Samsung (Tizen) TVs over the local network, with SmartThings as a fallback | Rust · Tauri 2 · TypeScript |
 | **[My Tuya Home](https://thepaneb.github.io/my-tuya-home/)** | Self-hosted dashboard for Tuya/SmartLife smart plugs with live energy, cascade totals and a native Flet app | Python · Flask · Flet |
